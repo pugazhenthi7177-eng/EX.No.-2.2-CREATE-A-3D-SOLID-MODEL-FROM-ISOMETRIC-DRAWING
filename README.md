@@ -53,7 +53,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## STEP-6: Select the Sketch Plane
 	Select the TOP SURFACE of the 3D block 
-	<img width="1485" height="872" alt="Screenshot 2026-11-17 161624" src="https://github.com/user-attachments/assets/2ea7992f-5bd6-4bca-b6c5-befc6bd91e5c" />
+<img width="1487" height="883" alt="edm" src="https://github.com/user-attachments/assets/2a8f2068-97fc-4aa4-8eb0-f29823d18d3a" />
+
 
   
 ## STEP-7: Create a RECTANGLE 
@@ -93,7 +94,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 3.	Click again to place the value.
 4.	Type in the value of 6mm in both direction option. 
 5.	Press ENTER to accept the value.
-	<img width="1256" height="861" alt="Screenshot 2026-11-17 161909" src="https://github.com/user-attachments/assets/67d4d3af-e938-4639-8d1a-70c3f1e429e2" />
+	<img width="1472" height="867" alt="Screenshot 2026-11-17 203940" src="https://github.com/user-attachments/assets/7637a158-7e86-4fea-a5e8-4047698155ba" />
+
 
 
 ## STEP-11: Create a PENTAGON 
@@ -104,12 +106,18 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the polygon.
 6.	Click Finish Sketch after completing.
 
+<img width="1465" height="872" alt="Screenshot 2026-11-17 203922" src="https://github.com/user-attachments/assets/f624cadf-114f-4c3f-a078-83037e733f65" />
+
+
 ## STEP-12: Extrude PENTAGON
 1.	Select Extrude.
 2.	Select the PENTAGON sketch.
 3.	Click again to place the value.
 4.	Type in the value of 10mm. 
 5.	Press ENTER to accept the value.
+
+	<img width="1256" height="861" alt="Screenshot 2026-11-17 161909" src="https://github.com/user-attachments/assets/2c48cd7a-6970-47e9-b693-de33eb4e4b88" />
+
 
 ## STEP-13: Create a CIRCLE 
 1.	Select Sketch > CIRCLE > CENTER CIRCLE.
@@ -119,12 +127,18 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 5.	Click again to place the circle.
 6.	Click Finish Sketch after completing.
 
+	<img width="1470" height="885" alt="Screenshot 2026-11-17 203115" src="https://github.com/user-attachments/assets/cc681f93-605e-4650-ab8e-a26492cf24c1" />
+
+
 ## STEP-14:  Extrude CIRCLE 
 1.	Select Extrude.
 2.	Select the pentogan sketch.
 3.	Click again to place the value.
 4.	Type in the value of 10mm on both side. 
 5.	Press ENTER to accept the value.
+
+
+<img width="1470" height="898" alt="Screenshot 2026-11-17 203021" src="https://github.com/user-attachments/assets/afea9308-797c-4d11-901a-3b59b40057e9" />
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
